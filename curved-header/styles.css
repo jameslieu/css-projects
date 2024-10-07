@@ -1,0 +1,23 @@
+#curved-bg {
+  position: absolute;
+  border-radius: 50%;
+  height: 200vw;
+  width: 200vw;
+  top: -100vw;
+  right: -100vw;
+  z-index: -1;
+  background-color: #1783bc;
+}
+
+h1 {
+  margin: 0;
+  padding: 100px 0;
+  font: 44px "Arial";
+  text-align: center;
+}
+
+p {
+  margin: 0;
+  padding: 100px 0;
+  text-align: center;
+}
